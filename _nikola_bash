@@ -1,4 +1,4 @@
-[?1034h# bash completion for nikola
+# bash completion for nikola
 # auto-generate by `nikola tabcomplention`
 
 # to activate it you need to 'source' the generate script
